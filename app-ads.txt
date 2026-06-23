@@ -1,0 +1,57 @@
+# app-ads.txt for Liuyang Fanranwo Trading Co., Ltd.
+# Generated: 2025-01-15
+# Website: https://lyfanran.com
+
+# Google AdMob
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+
+# Facebook Audience Network
+facebook.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Unity Ads
+unity3d.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# AppLovin
+applovin.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# ironSource
+ironsrc.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Vungle (ByteDance)
+vungle.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Chartboost
+chartboost.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# MoPub (Twitter)
+mopub.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# AdColony
+adcolony.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# InMobi
+inmobi.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Pangle
+pangle.io, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# MINTEGRAL
+mintegral.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Smaato
+smaato.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# StartApp
+startapp.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Moloco
+moloco.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Criteo
+criteo.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Outbrain
+outbrain.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Taboola
+taboola.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
